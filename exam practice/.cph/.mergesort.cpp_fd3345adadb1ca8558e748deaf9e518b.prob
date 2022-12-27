@@ -1,0 +1,1 @@
+{"name":"Local: mergesort","url":"d:\\sem3\\DSA2\\exam practice\\mergesort.cpp","tests":[{"id":1671208250284,"input":"5\n7 2 4 1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\DSA2\\exam practice\\mergesort.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: quicksort","url":"d:\\sem3\\DSA2\\exam practice\\quicksort.cpp","tests":[{"id":1671210519075,"input":"5\n7 2 4 1 5","output":""},{"id":1671248427930,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\DSA2\\exam practice\\quicksort.cpp","group":"local","local":true}

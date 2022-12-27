@@ -1,0 +1,1 @@
+{"name":"Local: 10_binarytree_LCA","url":"d:\\sem3\\DSA2\\Binary tree\\10_binarytree_LCA.cpp","tests":[{"id":1668317286408,"input":"","output":"1 2 -1 -1 3 -1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\DSA2\\Binary tree\\10_binarytree_LCA.cpp","group":"local","local":true}
