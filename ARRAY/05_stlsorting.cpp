@@ -3,7 +3,7 @@ using namespace std;
 // define a compatator function
 bool comp(int a, int b)
 {
-    cout << a << " " << b << endl;
+   // cout << a << " " << b << endl;
     return a < b;
 }
 int main()

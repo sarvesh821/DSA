@@ -36,6 +36,7 @@ int main()
     {
         cout << arr[i] << " ";
     }
+    cout<<endl;
     cout << maximum << endl;
     return 0;
 }
