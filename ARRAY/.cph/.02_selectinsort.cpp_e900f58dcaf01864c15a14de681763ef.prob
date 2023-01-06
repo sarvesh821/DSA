@@ -1,0 +1,1 @@
+{"name":"Local: 02_selectinsort","url":"/home/sarvesh/Desktop/DSA/ARRAY/02_selectinsort.cpp","tests":[{"id":1672991977111,"input":"5\n5 2 3 1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/ARRAY/02_selectinsort.cpp","group":"local","local":true}
