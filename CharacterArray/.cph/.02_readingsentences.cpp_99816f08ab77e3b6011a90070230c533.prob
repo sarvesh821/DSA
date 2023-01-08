@@ -1,0 +1,1 @@
+{"name":"Local: 02_readingsentences","url":"/home/sarvesh/Desktop/DSA/CharacterArray/02_readingsentences.cpp","tests":[{"id":1673164953839,"input":"this is a\nparagraph $\n\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/CharacterArray/02_readingsentences.cpp","group":"local","local":true}

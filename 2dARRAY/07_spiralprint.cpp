@@ -9,29 +9,36 @@ void spiralprint(int arr[][1000], int m, int n)
     while (sr <= er && sc <= ec)
     {
         // print first row
-        for (int i = sr; i < ec; i++)
+        for (int i = sr; i <= ec; i++)
         {
-            cout << arr[sc][i] << " ";
+            cout << arr[sr][i] << " ";
         }
         sr++;
         // print last col
-        for (int i = sr; i < ec; i++)
+        for (int i = sr; i <= ec; i++)
         {
             cout << arr[i][ec] << " ";
         }
         ec--;
         // print bottom row
-        for (int i = ec; i >= sc; i--)
+        if (er > sr)
         {
-            cout << arr[er][i] << " ";
+            for (int i = ec; i >= sc; i--)
+            {
+                cout << arr[er][i] << " ";
+            }
+            er--;
         }
-        er--;
+
         // print first col
-        for (int i = ec; i >= sr; i--)
+        if (ec > sc)
         {
-            cout << arr[i][sc] << " ";
+            for (int i = er; i >= sr; i--)
+            {
+                cout << arr[i][sc] << " ";
+            }
+            sc++;
         }
-        sc++;
     }
 }
 int main()

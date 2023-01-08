@@ -1,0 +1,1 @@
+{"name":"Local: 05_largeststring","url":"/home/sarvesh/Desktop/DSA/CharacterArray/05_largeststring.cpp","tests":[{"id":1673169353848,"input":"5\nas\nasd\nasdf\nasdfg\nasdfgh","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/CharacterArray/05_largeststring.cpp","group":"local","local":true}

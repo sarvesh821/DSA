@@ -1,0 +1,1 @@
+{"name":"Local: 02_sortingstrings","url":"/home/sarvesh/Desktop/DSA/strings/02_sortingstrings.cpp","tests":[{"id":1673184086955,"input":"3\napple juice\nmango juice\nbanana shake","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/strings/02_sortingstrings.cpp","group":"local","local":true}
