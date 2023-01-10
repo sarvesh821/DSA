@@ -1,0 +1,1 @@
+{"name":"Local: 02_sumofsubmatrixapproch2","url":"/home/sarvesh/Desktop/DSA/problems 2darray/02_sumofsubmatrixapproch2.cpp","tests":[{"id":1673356163308,"input":"2 2\n1 1\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/problems 2darray/02_sumofsubmatrixapproch2.cpp","group":"local","local":true}
