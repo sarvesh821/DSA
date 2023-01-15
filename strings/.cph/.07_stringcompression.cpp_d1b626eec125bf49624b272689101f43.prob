@@ -1,0 +1,1 @@
+{"name":"Local: 07_stringcompression","url":"/home/sarvesh/Desktop/DSA/strings/07_stringcompression.cpp","tests":[{"id":1673588389044,"input":"aabbcc","output":"aabbcc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/strings/07_stringcompression.cpp","group":"local","local":true}

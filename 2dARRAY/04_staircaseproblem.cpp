@@ -35,7 +35,7 @@ int main()
             j--;
         }
     }
-    cout << "not present" << endl;
+   // cout << "not present" << endl;
 
     return 0;
 }

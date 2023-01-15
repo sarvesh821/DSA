@@ -1,0 +1,1 @@
+{"name":"Local: 01_findfirstocc_lastocc","url":"/home/sarvesh/Desktop/DSA/BinarySearch/01_findfirstocc_lastocc.cpp","tests":[{"id":1673775642612,"input":"10 2\n1 2 2 2 2 2 5 6 7 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/BinarySearch/01_findfirstocc_lastocc.cpp","group":"local","local":true}

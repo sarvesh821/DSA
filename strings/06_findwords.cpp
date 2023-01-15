@@ -3,14 +3,13 @@ using namespace std;
 int main()
 {
     int count = 0;
-    char s[100] = "today is a rainy day ty";
-    char *ptr = strtok(s, " ");
-    // cout << ptr << endl;
+    char ch[100] = "i am waiting";
+
+    char *ptr = strtok(ch, " ");
     count++;
     while (ptr != NULL)
     {
         ptr = strtok(NULL, " ");
-        // cout << ptr << endl;
         count++;
     }
     cout << --count;
