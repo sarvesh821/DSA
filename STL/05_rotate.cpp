@@ -19,7 +19,7 @@ int main()
     }
     cout << endl;
     // using vector
-    vector<string> v{"bca"};
+    vector<int> v{1,2,3,4,5};
     rotate(v.begin(), v.begin() + 2, v.end());
     for (int i = 0; i < v.size(); i++)
     {

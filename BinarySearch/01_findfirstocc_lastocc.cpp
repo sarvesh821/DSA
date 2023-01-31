@@ -65,6 +65,6 @@ int main()
 
     int firstoccurence = firstocc(arr, n, key);
     int lastoccurence = lastocc(arr, n, key);
-    cout << firstoccurence << " ans  " << lastoccurence << endl;
+    cout << firstoccurence << "  ans  " << lastoccurence << endl;
     return 0;
 }

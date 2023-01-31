@@ -5,7 +5,7 @@ int main()
 {
     string s;
     cin >> s;
-    int count[1000] = {0};
+    int count[256] = {0};
 
     int len = s.length();
     int max = 0;
