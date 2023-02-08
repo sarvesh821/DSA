@@ -1,0 +1,2 @@
+   // deleteattail(head);
+    // print(head);

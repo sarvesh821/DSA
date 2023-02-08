@@ -1,0 +1,1 @@
+{"name":"Local: 02_bitmasking","url":"/home/sarvesh/Desktop/DSA/bit manipulation/02_bitmasking.cpp","tests":[{"id":1675257923833,"input":"15\n2\n1\n3","output":""},{"id":1675341813444,"input":"5\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/bit manipulation/02_bitmasking.cpp","group":"local","local":true}
