@@ -30,6 +30,43 @@ void insertathead(node *&head, int data)
     }
     head = n;
 }
+node *getnode(node *head, int data)
+{
+    node *temp = head;
+
+    while (temp->next != NULL)
+    {
+        if (temp->data == data)
+        {
+            return temp;
+        }
+        temp = temp->next;
+    }
+    if (temp->data == data)
+    {
+        return temp;
+    }
+    return NULL;
+}
+void deletenode(node *&head, int data)
+{
+    node *del = getnode(head, data);
+    if (del == NULL)
+    {
+        return;
+    }
+    if (head == del)
+    {
+        head = head->next;
+    }
+    node *temp = head;
+    while (temp->next != del)
+    {
+        temp = temp->next;
+    }
+    temp->next = del->next;
+    delete del;
+}
 void print(node *head)
 {
     node *temp = head;
@@ -38,6 +75,7 @@ void print(node *head)
         cout << temp->data << " ";
         temp = temp->next;
     }
+    cout << temp->data << endl;
     return;
 }
 int main()
@@ -47,6 +85,7 @@ int main()
     insertathead(head, 45);
     insertathead(head, 12);
     insertathead(head, 67);
+    deletenode(head, 45);
     print(head);
 
     return 0;
