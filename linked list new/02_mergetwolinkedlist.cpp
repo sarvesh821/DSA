@@ -121,9 +121,14 @@ void removecycle(node *head)
         fast = fast->next->next;
         if (slow == fast)
         {
-            return true;
+            slow=head;
         }
     }
+    while(slow->next==fast->next){
+        slow=slow->next;
+        fast=fast->next;
+    }
+    fast->next=NULL;
 }
 void print(node *head)
 {

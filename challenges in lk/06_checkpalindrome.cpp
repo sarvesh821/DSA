@@ -86,7 +86,7 @@ bool checkpalindrome(node *head)
     }
     fast = head;
     slow = prev;
-    while (slow)
+    while (slow!=NULL && fast!=NULL)
     {
         if (slow->data != fast->data)
         {
