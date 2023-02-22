@@ -1,0 +1,1 @@
+{"name":"Local: 02_reversestack","url":"/home/sarvesh/Desktop/DSA/stacknew/02_reversestack.cpp","tests":[{"id":1676997589935,"input":"5\n1 2 3 4 5","output":""},{"id":1676997658533,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/stacknew/02_reversestack.cpp","group":"local","local":true}

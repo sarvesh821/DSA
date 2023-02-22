@@ -1,0 +1,1 @@
+{"name":"Local: 04_balanceparenthesis","url":"/home/sarvesh/Desktop/DSA/stacknew/04_balanceparenthesis.cpp","tests":[{"id":1677042929499,"input":"(())","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/stacknew/04_balanceparenthesis.cpp","group":"local","local":true}
