@@ -29,10 +29,7 @@ int main()
             {
                 while (!s.empty() && s.top().second <= no)
                 {
-                    // if (s.empty())
-                    // {
-                    //     break;
-                    // }
+
                     s.pop();
                 }
                 if (s.empty())

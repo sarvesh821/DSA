@@ -1,0 +1,1 @@
+{"name":"Local: balanceparenthesis","url":"/home/sarvesh/Desktop/DSA/challengesstack,queue,lk/balanceparenthesis.cpp","tests":[{"id":1677502570819,"input":"({[]})","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/challengesstack,queue,lk/balanceparenthesis.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 03_countsetbits","url":"/home/sarvesh/Desktop/DSA/chhllengesinbitmasking/03_countsetbits.cpp","tests":[{"id":1677590606960,"input":"3\n5\n4\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/chhllengesinbitmasking/03_countsetbits.cpp","group":"local","local":true}
