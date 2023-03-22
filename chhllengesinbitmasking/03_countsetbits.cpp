@@ -21,8 +21,7 @@ int main()
             ch = ch >> 1;
         }
         cout << sum << endl;
-        int s = 3 ^ 2;
-        cout << s;
+       
     }
     return 0;
 }
