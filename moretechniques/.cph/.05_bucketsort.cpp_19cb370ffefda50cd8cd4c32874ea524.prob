@@ -1,0 +1,1 @@
+{"name":"Local: 05_bucketsort","url":"/home/sarvesh/Desktop/DSA/moretechniques/05_bucketsort.cpp","tests":[{"id":1679564640018,"input":"5\n1 a\n6 b\n2 c\n4 f\n8 g","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/moretechniques/05_bucketsort.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 02_searchingelement","url":"/home/sarvesh/Desktop/DSA/BSTnew/02_searchingelement.cpp","tests":[{"id":1680763970683,"input":"5 3 7 1 6 8 -1\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/BSTnew/02_searchingelement.cpp","group":"local","local":true}
