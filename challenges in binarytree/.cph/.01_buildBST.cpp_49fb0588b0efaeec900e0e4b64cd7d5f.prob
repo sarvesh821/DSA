@@ -1,0 +1,1 @@
+{"name":"Local: 01_buildBST","url":"/home/sarvesh/Desktop/DSA/challenges in binarytree/01_buildBST.cpp","tests":[{"id":1681215538325,"input":"1\n7\n1 2 3 4 5 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/challenges in binarytree/01_buildBST.cpp","group":"local","local":true}

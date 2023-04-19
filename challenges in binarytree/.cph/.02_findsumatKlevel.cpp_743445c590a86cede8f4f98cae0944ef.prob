@@ -1,0 +1,1 @@
+{"name":"Local: 02_findsumatKlevel","url":"/home/sarvesh/Desktop/DSA/challenges in binarytree/02_findsumatKlevel.cpp","tests":[{"id":1681217629738,"input":"1 2\n2 2\n3 0\n4 0\n5 2\n6 0\n7 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/challenges in binarytree/02_findsumatKlevel.cpp","group":"local","local":true}

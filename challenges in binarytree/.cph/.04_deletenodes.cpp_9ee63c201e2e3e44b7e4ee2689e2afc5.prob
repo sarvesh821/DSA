@@ -1,0 +1,1 @@
+{"name":"Local: 04_deletenodes","url":"/home/sarvesh/Desktop/DSA/challenges in binarytree/04_deletenodes.cpp","tests":[{"id":1681221422997,"input":"1\n7\n5 3 2 4 7 6 8\n3\n2 3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarvesh/Desktop/DSA/challenges in binarytree/04_deletenodes.cpp","group":"local","local":true}
